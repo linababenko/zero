@@ -1,7 +1,7 @@
 var assert = require('assert');
 const performance = require('perf_hooks').performance;
 // const zero = require('../src/index');
-//comment
+//comment 2
 describe('zero', function () {
     var testCase1 = [
         {value_n: 3, arr: [777777732, 777777769, 777777707], expected: 'YES' },

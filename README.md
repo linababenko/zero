@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/linababenko/zero/badge.svg?branch=master)](https://coveralls.io/github/linababenko/zero?branch=master)
+
 ## Task:
 
 You are given an array a1,a2,…,an.

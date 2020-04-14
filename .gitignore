@@ -1,0 +1,7 @@
+/node_modules
+.idea/vcs.xml
+/.idea
+package-lock.json
+.nyc_output
+coverage
+.coveralls.yml
